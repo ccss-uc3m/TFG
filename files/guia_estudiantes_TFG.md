@@ -2,11 +2,11 @@
 title: |
   | GUÍA PARA ESTUDIANTES
   |
-  | TFG Ciencias Políticas / Estudios Internacionales
+  | TFG Ciencias Políticas / Estudios Internacionales / Sociología
 author: |
   | Departamento de Ciencias Sociales
   | Universidad Carlos III de Madrid
-date: "2024-2025"
+date: "2025-2026"
 ---
 
 <!--- pandoc files/guia_estudiantes_TFG.md -o files/guia_estudiantes_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
@@ -21,13 +21,13 @@ Las instrucción y normas para la matrícula se publican en la [web de Secretar�
 
 ## Asignación de tutores
 
-Por lo general, en el Departamento de Ciencias Sociales publicamos cada año las ofertas de TFG para EEII y CCPP, que se han de elegir en Sigma durante el periodo de solicitud. Si se está interesado en realizar el TFG con una profesora o profesor en particular, el procedimiento estándar es seleccionar su oferta. En caso de que haya más solicitudes que ofertas, las plazas se asignarán teniendo en cuenta el expediente académico. **No recomendamos ponerse en contacto de forma privada con profesores para pedirles que tutoricen un trabajo.**
+Por lo general, en el Departamento de Ciencias Sociales publicamos cada año las ofertas de TFG para EEII, CCPP y Sociología, que se han de elegir en Sigma durante el periodo de solicitud. Si se está interesado en realizar el TFG con una profesora o profesor en particular, el procedimiento estándar es seleccionar su oferta. En caso de que haya más solicitudes que ofertas, las plazas se asignarán teniendo en cuenta el expediente académico. No recomendamos ponerse en contacto de forma privada con profesores para pedirles que tutoricen un trabajo.
 
 ## Normas de extensión y formato
 
-La **extensión máxima** de un TFG de EEII o CCPP es de **10.000 palabras**, que incluye **todo el documento** salvo los Anexos. La bibliografía también entra dentro del límite de palabras.
+La **extensión máxima** de un TFG de EEII, CCPP o Sociología es de **10.000 palabras**, que incluye **todo el documento** salvo los Anexos. La bibliografía también entra dentro del límite de palabras.
 
-Los TFG de Ciencias Políticas serán en **español**, mientras que los de Estudios Internacionales serán en **inglés.**
+Los TFG de Ciencias Políticas y Sociología serán en **español**, mientras que los de Estudios Internacionales serán en **inglés.**
 
 Además de eso, existen una serie de normas básicas de formato:
 
@@ -51,7 +51,7 @@ El objetivo del TFG es que el alumno realice un trabajo científico riguroso y 
 
 Independientemente de la metodología o del tipo de trabajo que se realice, todos los TFG tienen que tener un componente analítico (ya sea empírico o teórico) y han de contener argumentos originales, más allá de resumir trabajos previos.
 
-La gran mayoría de TFG de EEII o CCPP tienen un componente empírico, es decir, utilizan una metodología empírica para responder a alguna pregunta. La evidencia empírica y la metodología pueden ser tanto cuantitativa como cualitativa. Ejemplos de esta última pueden ser estudios de caso o investigación documental.
+La gran mayoría de TFG de EEII, CCPP y Sociología tienen un componente empírico, es decir, utilizan una metodología empírica para responder a alguna pregunta. La evidencia empírica y la metodología pueden ser tanto cuantitativa como cualitativa. Ejemplos de esta última pueden ser estudios de caso, investigación documental, entrevistas, grupos de discusión, etc.
 
 También es posible realizar un TFG totalmente teórico, y algunas de las ofertas de tutorización están centradas en trabajos teóricos. No obstante, el trabajo no puede ser un mero resumen de trabajos anteriores y ha de incluir contenidos originales de tipo analítico.
 
@@ -59,16 +59,16 @@ Por un último, un TFG puede ser una revisión de bibliografía, a pesar de que,
 
 ## Estructura
 
-La estructura del TFG es relativamente flexible y el estudiante puede elegir qué estructura encaja mejor con el tenido del trabajo, lo cual también repercute en la calidad del mismo. Una propuesta de estructura para trabajos empíricos es:
+La estructura del TFG es relativamente flexible y el estudiante puede elegir qué estructura encaja mejor con el tenido del trabajo, lo cual también repercute en la calidad del mismo. Una *posible* propuesta de estructura para trabajos empíricos es:
 
 1. Introducción: motivación, objetivo de estudio, pregunta de investigación
 2. Revisión de la literatura
 3. Argumento teórico e hipótesis
-4. Metodología (casos, datos o fuentes de información, método comparativo o análisis, etc)
+4. Metodología (casos, datos o fuentes de información, método comparativo o análisis, entrevistas, etc)
 5. Resultados
 6. Discusión y conclusiones
 
-Para trabajos teóricos:
+Y una *posible* propuesta para trabajos teóricos:
 
 1. Introducción y objeto de estudio
 2. Revisión de la literatura
