@@ -1,12 +1,13 @@
 ---
 title: |
   | GUÍA PARA ESTUDIANTES
-  |
-  | TFG Ciencias Políticas / Estudios Internacionales / Sociología
 author: |
+  | Trabajo Fin de Grado (TFG)
+  | Ciencias Políticas / Estudios Internacionales / Sociología
+  |
   | Departamento de Ciencias Sociales
   | Universidad Carlos III de Madrid
-date: "2025-2026"
+date: "Curso 2025-2026"
 ---
 
 <!--- pandoc files/guia_estudiantes_TFG.md -o files/guia_estudiantes_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
