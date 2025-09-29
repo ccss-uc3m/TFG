@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 highlighter: rouge
 
 title : TFG Departamento de Ciencias Sociales, UC3M
-description : TFG Ciencias Sociales (CCPP/EEII), UC3M
+description : TFG Ciencias Sociales (CCPP/EEII/Sociología), UC3M
 production_url : https://ccss-uc3m.github.io/TFG
 
 # Tell Github to use the kramdown markdown interpreter
