@@ -46,7 +46,7 @@ Reglamento: "Los estudiantes que, habiendo matriculado la asignatura, no cumplie
 
 - **¿Puedo cambiar de profesor u oferta una vez asignados?**
 
-No es posible salvo en situaciones extraordinarias.
+No es posible.
 
 - **¿Puedo tener un tutor de fuera de la UC3M?**
 
