@@ -1,7 +1,7 @@
 ---
 title: Manual interno sobre TFG
 author: |
-  | Departamento de Ciencias Sociales, UC3M -- Sept 2024
+  | Departamento de Ciencias Sociales, UC3M -- Sept 2025
 ---
 
 <!--- pandoc files/manual_interno.md -o files/manual_interno_profesores_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
@@ -22,9 +22,9 @@ author: |
 
 El Trabajo Fin de Grado (TFG) es una asignatura obligatoria (generalmente, de 6 ECTS) que se realiza al terminar un grado. Los estudiantes de doble grado tienen que realizar 2 TFGs, uno por cada grado que estén cursando.
 
-El Departamento de CCSS coordina el TFG de Estudios Internacionales (EEII) y el TFG de Ciencia Política (CCPP), que se ofertan tanto en los grados simples como en los dobles grados (CCPP/Soc, Derecho/CCPP, EEII/CCPP, EEII/ADE, etc), y es el principal responsable de la oferta docente de éstos. Los TFG de CCPP son en **español**, y los de EEII, en **inglés**.
+El Departamento de CCSS coordina el TFG de Estudios Internacionales (EEII), el TFG de Ciencia Política (CCPP), y el TFG de Sociología, que se ofertan tanto en los grados simples como en los dobles grados (CCPP/Soc, Derecho/CCPP, EEII/CCPP, EEII/ADE, etc), y es el principal responsable de la oferta docente de éstos. Los TFG de CCPP y Sociología son en **español**, y los de EEII, en **inglés**. (También tenemos una pequeña oferta en el TFG de Economía, que se coordina desde el Departamento de Economía; de la misma manera que una pequeña parte de las ofertas de EEII las hacen profesores de Derecho Internacional, pero coordinadas por nosotros.)
 
-Además de eso, también tenemos obligaciones docentes de ofertar un número de TFGs de Economía. La coordinación de esos TFGs se lleva a cabo desde el departamento de Economía. Por lo general, el departamento tiene que hacer frente, por ahora, a unos 500 TFG por cada curso académico, aproximadamente.
+Por lo general, el departamento tiene que hacer frente, por ahora, a unos 500 TFG por cada curso académico, aproximadamente. Esto también incluye las **evaluaciones**, es decir, organizar los tribunales.
 
 <!---
 Como ejemplo, este curso (2022-23) hemos tenido 506 TFGs de EEII y CCPP, a lo que habría que sumar 69 que se hicieron en Economía (y 6 en Historia y Política). En total, 581. (Este curso hubo unos 80 estudiantes extra de un plan en extinción, que se solaparon con los del plan vigente.) En la tabla de abajo, el número de TFG de EEII y CCPP por cuatrimestre:
@@ -77,7 +77,7 @@ Es decir, los hacen el TFG en otoño pueden elegir entre defender en febrero o e
 
 ### 2.2 Asignación de TFG y modalidades específica/general
 
-¿Cómo se asignan estudiantes a tutores? Este proceso se lleva a cabo en un plazo determinado en el que los estudiantes solicitan un tutor. Para la gran mayoría de TFG, que se hacen en el segundo cuatrimestre, las solicitudes y asignación se hacen entre finales de noviembre y principios de diciembre. Por ejemplo, en el curso 2022-2023, el proceso de solicitud para las asignaciones fue entre el 29 de noviembre y el 12 de diciembre. En el caso de la convocatoria anticipada, las solicitudes se realizan al empezar el curso en septiembre.
+¿Cómo se asignan estudiantes a tutores? Este proceso se lleva a cabo en un plazo determinado en el que los estudiantes solicitan un tutor. Para la gran mayoría de TFG, que se hacen en el segundo cuatrimestre, las solicitudes y asignación se hacen entre finales de noviembre y principios de diciembre. (El curso pasado el proceso de solicitud para las asignaciones fue entre el 29 de noviembre y el 12 de diciembre.) En el caso de la convocatoria anticipada, las solicitudes se realizan al empezar el curso en septiembre, aunque a veces se retrasan un poco.
 
 La forma en que se hace depende de la modalidad de un TFG, que puede ser específica o general. En los TFGs de **modalidad específica**, en teoría, un estudiante propone un tema a un profesor y éste acepta tutorizar. Una vez tenga esa aceptación, el estudiante solicita el TFG bajo modalidad específica declaran que tal profesor ha aceptado ser su tutor.
 
@@ -91,13 +91,13 @@ En la práctica no hay tanta diferencia. En el departamento de CCSS, a partir de
 
 # 3. Organización interna
 
-Actualmente, el cálculo del departamento es que tutorizar 7 TFGs equivale a un grupo de docencia. Este cálculo se hace en base al mínimo de tutorización que hay que dedicar a cada TFG: 5h en total, de las cuáles 3h han de ser individuales. Así, 7 TFGs equivalen a 23 horas lectivas.
+Actualmente, el cálculo del departamento es que tutorizar 7 TFGs equivale a un grupo de docencia. Este cálculo se hace en base al mínimo de tutorización que hay que dedicar a cada TFG: 5h en total, de las cuáles 3h han de ser individuales. Así, 7 TFGs equivalen a 23 horas lectivas. Dependiendo del balance que haya entre recursos (profesores) y el número de TFGs a tutorizar, se puede cambiar la equivalencia a 6 TFGs por grupo docente. En principio se le da prioridad a los profesores que estén dando alguna hora de más de docencia.
 
-Por razones de calidad de la docencia en los grupos, se intenta priorizar que sean profesores a tiempo completo del departamento quienes tutoricen los TFG, por lo que el estándar es que todos los profesores hagan un grupo de TFGs (7). Esto no es suficiente , por lo que se complementa con profesores asociados o, en algunos casos, algún profesor a tiempo completo tutoriza un número mayor de TFGs. En cualquier caso los TFGs cuentan para el cálculo de carga docente anual.
+Por razones de calidad de la docencia en los grupos (y por **exigencias** de las agencias de calidad en el pasado), se intenta priorizar que sean profesores a tiempo completo del departamento quienes tutoricen los TFG, por lo que el estándar es que todos los profesores hagan un grupo de TFGs (7). Esto no es suficiente , por lo que se complementa con profesores asociados o, en algunos casos, algún profesor a tiempo completo tutoriza un número mayor de TFGs. En cualquier caso los TFGs cuentan para el cálculo de carga docente anual.
 
-Por el momento, los tribunales no entran dentro del cálculo de carga docente, pero se reparten equitativamente entre todos los profesores a tiempo completo con docencia en el departamento. Debido al número de TFG que tenemos (~500 cada curso) y el número de profesores a tiempo completo, un **reparto** equitativo equivale a que **cada profesor evalúe, aproximadamente, unos 15-20 TFGs al año**. Esto son 8h de tribunales cada curso académico.
+Por el momento, los tribunales no entran dentro del cálculo de carga docente, sino que se reparten equitativamente entre todos los profesores a tiempo completo con docencia en el departamento. Debido al número de TFG que tenemos (~500 cada curso) y el número de profesores a tiempo completo, un **reparto** equitativo equivale a que **cada profesor evalúe, aproximadamente, unos 15-20 TFGs al año**. Esto son 8h de tribunales cada curso académico.
 
-Los tribunales se pueden hacer en febrero, junio o septiembre. La gran mayoría, sin embargo, son en junio, por lo que la libertad para elegir cuándo hacerlos no es total. Algunos profesores tienen compromisos en algunas de esas fechas: conferencias, clases, etc. A partir del curso 2023-24, se pondrá un procedimiento para que, alrededor de enero, los profesores puedan decir si en alguno de esos meses no van a estar disponibles para evaluar TFG por alguna de las razones de arriba.
+Los tribunales se pueden hacer en febrero, junio o septiembre. La gran mayoría, sin embargo, son en junio, por lo que la libertad para elegir cuándo hacerlos no es total. Algunos profesores tienen compromisos en algunas de esas fechas: conferencias, clases, etc. En el mes de enero el coordinador suele enviar un email preguntando a los profesores si en alguno de esos meses no van a estar disponibles para evaluar TFG por alguna de las razones de arriba o si tienen una preferencia especial por alguno de los llamamientos.
 
 Aunque organizativamente y quizás por razones de eficiencia sería deseable que todo el mundo hiciese los 15 TFG a la vez (ya sea en un sólo día o en dos seguidos durante el mismo llamamiento), a veces esto no es posible o preferible. Se preguntará también si se prefiere hacen todos en un mismo día o repartir en varios días.
 
@@ -122,7 +122,9 @@ que ha mostrado iniciativa para buscar soluciones válidas y justificadas de for
 
 ### 4.2 Formato y reglas del TFG
 
-Las reglas sobre el formato y estructura del TFG están recogidas en un documento aparte (**Guia de TFG Ciencia Política / Estudios Internacionales**), que se puede encontrar en la [web de TFG del departamento](https://ccss-uc3m.github.io/TFG/), y que se ha redactado para el curso 2023-2024. Hay alguna guía antigua circulando, así que sería deseable que, cuando los alumnos pregunten por esto, se les envíe la guía *actualizada*. En cualquier caso se les explican estas reglas en la sesión de información, pero muchos no acuden a ella.
+Las reglas sobre el formato y estructura del TFG están recogidas en un documento aparte [**GUÍA PARA ESTUDIANTES - TFG CCPP / EEII / Sociología**](https://ccss-uc3m.github.io/TFG/files/guia_estudiantes_TFG.pdf), que se puede encontrar en la web de TFG del departamento: [https://ccss-uc3m.github.io/TFG/](https://ccss-uc3m.github.io/TFG/).
+
+Hay alguna guía antigua circulando, así que sería deseable que, cuando los alumnos pregunten por esto, se les envíe la guía *actualizada*. En cualquier caso se les explican estas reglas en la sesión de información que se celebra en noviembre, aunque muchos no acuden a ella.
 
 # 5. Tribunales y evaluación
 
@@ -137,7 +139,7 @@ Estas actas hay que entregarlas a la **Oficina de Estudiantes de Grado (OEG)**. 
 
 ### 5.1 Tribunales
 
-A partir del curso 2023-2024, cada tribunal (cada defensa de un TFG) tendrá reservados **20 minutos**, que se reparten de esta forma:
+Cada tribunal (cada defensa de un TFG) tendrá reservados **20 minutos**, que se reparten de esta forma:
 
 - La presentación del estudiante durará, como máximo, **10 minutos**
 - El tribunal tendrá **5 minutos** para preguntar al estudiante
@@ -149,9 +151,9 @@ En principio, para agilizar el proceso, la **nota no se comunicará al final de 
 
 ### 5.2 Defensas online
 
-Los estudiantes que, en el momento del tribunal, estén estudiando o trabajando fuera de Madrid tienen derecho a defender el TFG de forma online. No existe aún una directiva a nivel de Facultad sobre esto pero parece ser que la habrá, por lo que tiene sentido seguir manteniendo esta posibilidad. Más allá de eso, las defensas online siguen el mismo procedimiento que las presenciales. Por otro lado, uno de los dos miembros del tribunal puede conectarse online, siempre y cuando el otro miembro esté presencialmente en Getafe.
+Los estudiantes que, en el momento del tribunal, estén estudiando o trabajando fuera de Madrid tienen derecho a defender el TFG de forma online. De momento no existe aún una directiva a nivel de Facultad sobre esto, aunque parece ser que la habrá, permitiendo las defensas online, por lo que tiene sentido seguir manteniendo esta posibilidad. Más allá de eso, las defensas online siguen el mismo procedimiento que las presenciales. Por otro lado, uno de los dos miembros del tribunal puede conectarse online, siempre y cuando el otro miembro esté presencialmente en Getafe.
 
-En estos casos, el acta también tiene que ser firmada por todos. Esta firma puede ser digital (no hace falta certificado electrónico, de momento, basta con una firma normal).
+En estos casos, el acta no tiene por qué ser firmada por el estudiante, sino que es **suficiente** si **ambos** miembros del tribunal la firman, siempre y cuando sea una **firma orgiginal en papel**.
 
 ### 5.3 Reclamación de la nota
 
