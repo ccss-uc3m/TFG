@@ -8,12 +8,9 @@ description: Fechas
 
 CONVOCATORIA ANTICIPADA (Defensa Febrero 2026)
 
-*Por definir.*
-
-<!-- - Solicitud de inscripción del estudiante para defensa: 9 al 15 de enero
-- **Fecha de entrega final del TFG: 30 ENERO**
-- Entrega del informe del tutor: 31 enero al 7 de febrero
-- Defensas ante tribunal: 17 de febrero a 7 de marzo -->
+- Solicitud de **inscripción para defensa**: 8 al 14 de enero
+- **Fecha de entrega** final del TFG: 28 de enero
+- **Tribunales** de defensa: 12 de febrero a 5 de marzo
 
 PRIMER LLAMAMIENTO (Defensa Junio/Julio 2026)
 
