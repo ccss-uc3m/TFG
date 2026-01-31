@@ -14,19 +14,15 @@ CONVOCATORIA ANTICIPADA (Defensa Febrero 2026)
 
 PRIMER LLAMAMIENTO (Defensa Junio/Julio 2026)
 
-*Por definir.*
-
-<!-- - Solicitud de defensa: del 15 al 28 de mayo
-- **Fecha límite de entrega del TFG: 4 de junio**
-- Entrega del informe del tutor/a : Del 5  al 13 de junio
-- **Defensa del TFG ante Tribunal: Del 23 de junio al 11 de julio** -->
+- Solicitud de defensa: del 11 al 22 de mayo
+- Fecha límite de **entrega del TFG**: 1 de junio
+- Entrega del informe del tutor/a : Del 2 al 12  de junio
+- **Defensa del TFG** ante Tribunal: Del 24 de junio al 15 de julio
 
 SEGUNDO LLAMAMIENTO (Defensa Septiembre 2026)
 
-*Por definir.*
-
-<!-- - Solicitud de defensa:  Del 16 al 30 de junio
-- **Fecha límite de entrega del TFG: 10 de julio**
-- Entrega del informe del tutor/a: Del 11 al 17 de julio
-- **Defensa del TFG ante Tribunal: Del 8 al 26 de septiembre** -->
+- Solicitud de defensa:  Del 8 al 19 de junio
+- Fecha límite de **entrega del TFG**: 1 de julio
+- Entrega del informe del tutor/a: Del 2 al 12  de julio
+- **Defensa del TFG** ante Tribunal: Del 1 al 25 de septiembre
 
